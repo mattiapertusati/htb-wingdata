@@ -47,7 +47,7 @@ PORT   STATE SERVICE VERSION
 Two ports open: SSH on 22 and HTTP on 80. The web title
 "WingData Solutions" suggests a custom application.
 Port 80 is the primary attack surface.
-
+```
 ---
 
 ## Web Enumeration
